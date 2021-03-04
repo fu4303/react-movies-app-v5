@@ -14,7 +14,7 @@ An application for help you keep track of your movies watch list and your favori
 
 ## Demo
 
-Acess a live demo from this project on the following link: [**https://moviesdev.netlify.app/**](https://moviesdev.netlify.app/)
+Acess a live demo from this project on the following link: [**https://react-movies-app-v5-git-master-fu4303.vercel.app/**](https://react-movies-app-v5-git-master-fu4303.vercel.app)
 
 ## Development
 
